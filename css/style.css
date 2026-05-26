@@ -8541,3 +8541,25 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+    .business-card {
+  width: 300px;
+  background-color: white;
+  padding: 20px;
+  margin: 100px auto 0 auto;
+  text-align: center;
+  font-size: 16px;
+}
+
+.profile-image {
+  max-width: 100%;
+}
+
+.card-p {
+  margin: 5px 0;
+}
+
+.card-a {
+  text-decoration: none;
+}
